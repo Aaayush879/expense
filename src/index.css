@@ -1,0 +1,9 @@
+#root , body , html{
+  height:'100%';
+  margin:'0';
+}
+body{
+  background-size:cover;
+  background-position: 'center';
+  background-image: url(./my.jpg);
+}
